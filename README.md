@@ -1,5 +1,7 @@
 # ControlDeck NG
 
+> **Portfolio case study:** https://aboladvisuals.github.io/projects/controldeck-ng/
+
 **Restaurant Business Intelligence & Control** — an executive POC for Nigerian restaurant / bar / club financial visibility and control.
 
 **Live demo:** https://aboladvisuals.github.io/controldeck-ng/
